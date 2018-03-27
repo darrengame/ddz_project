@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 716598621
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ba59d342d364a32a1ca042df51bb6981
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36c33a819640bead83b84b1645a12e6d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/GameHall/Textures/Loading/icon_black.png
+- Assets/Game/GameHall/Textures/Loading/bg_loading.png
+- Assets/Game/GameHall/Textures/Loading/icon_circle.png
+Dependencies: []

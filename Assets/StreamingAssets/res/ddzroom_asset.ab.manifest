@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 185537432
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6ead7b40062ae738cfabda8dd99c4203
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36c33a819640bead83b84b1645a12e6d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/GameRoom/Textures/DdzRoom/btn_orangelong.png
+- Assets/Game/GameRoom/Textures/DdzRoom/btn_talk.png
+- Assets/Game/GameRoom/Textures/DdzRoom/btn_back.png
+- Assets/Game/GameRoom/Textures/DdzRoom/btn_add.png
+- Assets/Game/GameRoom/Textures/DdzRoom/btn_set.png
+- Assets/Game/GameRoom/Textures/DdzRoom/bg_userinfo.png
+- Assets/Game/GameRoom/Textures/DdzRoom/bg_table.png
+- Assets/Game/GameRoom/Textures/DdzRoom/btn_orangeshort.png
+- Assets/Game/GameRoom/Textures/DdzRoom/bg_bottom.png
+- Assets/Game/GameRoom/Textures/DdzRoom/bg_coin.png
+- Assets/Game/GameRoom/Textures/DdzRoom/wifi_03.png
+- Assets/Game/GameRoom/Textures/DdzRoom/icon_banker.png
+- Assets/Game/GameRoom/Textures/DdzRoom/btn_greenlong.png
+- Assets/Game/GameRoom/Textures/DdzRoom/bg_time.png
+- Assets/Game/GameRoom/Textures/DdzRoom/wifi_02.png
+- Assets/Game/GameRoom/Textures/DdzRoom/wifi_01.png
+- Assets/Game/GameRoom/Textures/DdzRoom/btn_greenshort.png
+- Assets/Game/GameRoom/Textures/DdzRoom/bg_avatar.png
+- Assets/Game/GameRoom/Textures/DdzRoom/btn_auto.png
+- Assets/Game/GameRoom/Textures/DdzRoom/wifi_04.png
+Dependencies: []

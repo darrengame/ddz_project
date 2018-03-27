@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2154227509
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 443f38c1c91f7fe805ef1dcf08a3db87
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe93d3e0d4a2b5905d50ebb770e901c8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/GameHall/Builds/Loading/LoadingPanel.prefab
+Dependencies:
+- /Users/xtgames/Documents/git/qp_uclient/Assets/StreamingAssets/res/loading_asset.ab

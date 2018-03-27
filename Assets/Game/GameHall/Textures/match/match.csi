@@ -1,0 +1,24 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="match" Type="Plist" ID="ced1cfd1-5f56-41c0-871a-0ce8164ea728" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="resources/match/match_1.png" />
+      <FilePathData Path="resources/match/match_3.png" />
+      <FilePathData Path="resources/match/match_4.png" />
+      <FilePathData Path="resources/match/match_5.png" />
+      <FilePathData Path="resources/match/match_6.png" />
+      <FilePathData Path="resources/match/match_7.png" />
+      <FilePathData Path="resources/match/match_10.png" />
+      <FilePathData Path="resources/match/match_11.png" />
+      <FilePathData Path="resources/match/match_12.png" />
+      <FilePathData Path="resources/match/match_13.png" />
+      <FilePathData Path="resources/match/match_8.png" />
+      <FilePathData Path="resources/match/match_9.png" />
+      <FilePathData Path="resources/match/match_14.png" />
+      <FilePathData Path="resources/match/match_15.png" />
+      <FilePathData Path="resources/match/match_16.png" />
+      <FilePathData Path="resources/match/match_17.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

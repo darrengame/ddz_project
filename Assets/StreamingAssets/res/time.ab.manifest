@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1855315763
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 824d04b902f9f8c40f19500c8612d55e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 306fdac20754bdeeb7709d7c5ea4a089
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/GameRoom/Builds/Time/Image_sysinfo.prefab
+- Assets/Game/GameRoom/Builds/Time/TimePanel.prefab
+Dependencies:
+- /Users/xtgames/Documents/git/qp_uclient/Assets/StreamingAssets/res/ddzroom_asset.ab

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3162146917
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cf932b722d630a0a0cf2fecf3f7eaed2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36c33a819640bead83b84b1645a12e6d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/GameHall/Textures/Hall/btn_msg_4.png
+- Assets/Game/GameHall/Textures/Hall/font_backroom.png
+- Assets/Game/GameHall/Textures/Hall/btn_creatroom.png
+- Assets/Game/GameHall/Textures/Hall/btn_msg_3.png
+- Assets/Game/GameHall/Textures/Hall/hall_logo.png
+- Assets/Game/GameHall/Textures/Hall/btn_match.png
+- Assets/Game/GameHall/Textures/Hall/btn_joinroom.png
+- Assets/Game/GameHall/Textures/Hall/font_joinroom.png
+- Assets/Game/GameHall/Textures/Hall/bg_time.png
+- Assets/Game/GameHall/Textures/Hall/btn_msg_2.png
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2460464831
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2a005acaf8d41e18a113e029225cc047
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2bc8ba562a87100646beed0554576013
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/GameRoom/Builds/Poker/PokerPanel.prefab
+Dependencies:
+- /Users/xtgames/Documents/git/qp_uclient/Assets/StreamingAssets/res/poker_asset.ab

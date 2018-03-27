@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 830683211
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1c822efc6fa67a5c1fcf80ffc9d5d7bb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0d3092762a1e72b3ea376bed2e3703db
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/GameHall/Builds/JoinRoom/Button_num.prefab
+- Assets/Game/GameHall/Builds/JoinRoom/JoinRoomPanel.prefab
+Dependencies:
+- /Users/xtgames/Documents/git/qp_uclient/Assets/StreamingAssets/res/joinroom_asset.ab

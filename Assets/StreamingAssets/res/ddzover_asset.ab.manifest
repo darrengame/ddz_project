@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 4024005851
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8b4d252144f8c762266438c08779a176
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36c33a819640bead83b84b1645a12e6d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/GameRoom/Textures/DdzOver/icon_win.png
+- Assets/Game/GameRoom/Textures/DdzOver/bg_loser.png
+- Assets/Game/GameRoom/Textures/DdzOver/bg_win.png
+- Assets/Game/GameRoom/Textures/DdzOver/icon_lose.png
+Dependencies: []

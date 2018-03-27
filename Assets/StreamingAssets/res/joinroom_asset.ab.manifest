@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3850549377
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 202b7e583d09369e69bb9eef0c0ab850
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36c33a819640bead83b84b1645a12e6d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/GameHall/Textures/JoinRoom/icon_delet.png
+- Assets/Game/GameHall/Textures/JoinRoom/btn_enterroom.png
+- Assets/Game/GameHall/Textures/JoinRoom/room_number_0.png
+- Assets/Game/GameHall/Textures/JoinRoom/bg_enterroom.png
+Dependencies: []

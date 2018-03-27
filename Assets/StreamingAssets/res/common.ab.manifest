@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 1788223820
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2b48e65ee0c3f003e6105ffcc1c5690c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 226ea8fd9571befb2429d46fb6155ac0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Common/Builds/Common/Text_title.prefab
+- Assets/Game/Common/Builds/Common/Button_diamond.prefab
+- Assets/Game/Common/Builds/Common/Common_bmsgbox.prefab
+- Assets/Game/Common/Builds/Common/MsgBoxPanel.prefab
+- Assets/Game/Common/Builds/Common/HornPanel.prefab
+- Assets/Game/Common/Builds/Common/ScrollView_game.prefab
+- Assets/Game/Common/Builds/Common/Button_select.prefab
+- Assets/Game/Common/Builds/Common/Text_player_record.prefab
+- Assets/Game/Common/Builds/Common/ScrollView_content.prefab
+- Assets/Game/Common/Builds/Common/Button_create.prefab
+- Assets/Game/Common/Builds/Common/Common_smsgbox.prefab
+- Assets/Game/Common/Builds/Common/Button_avatar.prefab
+Dependencies: []

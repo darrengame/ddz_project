@@ -1,0 +1,103 @@
+ManifestFileVersion: 0
+CRC: 3200579086
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: common.ab
+      Dependencies: {}
+    Info_1:
+      Name: createroom.ab
+      Dependencies:
+        Dependency_0: createroom_asset.ab
+    Info_2:
+      Name: createroom_asset.ab
+      Dependencies: {}
+    Info_3:
+      Name: hall.ab
+      Dependencies:
+        Dependency_0: hall_asset.ab
+    Info_4:
+      Name: hall_asset.ab
+      Dependencies: {}
+    Info_5:
+      Name: help.ab
+      Dependencies: {}
+    Info_6:
+      Name: invite.ab
+      Dependencies: {}
+    Info_7:
+      Name: joinroom.ab
+      Dependencies:
+        Dependency_0: joinroom_asset.ab
+    Info_8:
+      Name: joinroom_asset.ab
+      Dependencies: {}
+    Info_9:
+      Name: load.ab
+      Dependencies:
+        Dependency_0: load_asset.ab
+    Info_10:
+      Name: load_asset.ab
+      Dependencies: {}
+    Info_11:
+      Name: loading.ab
+      Dependencies:
+        Dependency_0: loading_asset.ab
+    Info_12:
+      Name: loading_asset.ab
+      Dependencies: {}
+    Info_13:
+      Name: msgbox.ab
+      Dependencies: {}
+    Info_14:
+      Name: playerinfo.ab
+      Dependencies: {}
+    Info_15:
+      Name: protocol.ab
+      Dependencies: {}
+    Info_16:
+      Name: record.ab
+      Dependencies: {}
+    Info_17:
+      Name: set.ab
+      Dependencies:
+        Dependency_0: createroom_asset.ab
+        Dependency_1: set_asset.ab
+    Info_18:
+      Name: set_asset.ab
+      Dependencies: {}
+    Info_19:
+      Name: ddzover.ab
+      Dependencies:
+        Dependency_0: ddzover_asset.ab
+        Dependency_1: ddzroom_asset.ab
+    Info_20:
+      Name: ddzover_asset.ab
+      Dependencies: {}
+    Info_21:
+      Name: ddzroom.ab
+      Dependencies:
+        Dependency_0: ddzroom_asset.ab
+        Dependency_1: poker_asset.ab
+    Info_22:
+      Name: ddzroom_asset.ab
+      Dependencies: {}
+    Info_23:
+      Name: playerseat.ab
+      Dependencies:
+        Dependency_0: ddzroom_asset.ab
+    Info_24:
+      Name: poker.ab
+      Dependencies:
+        Dependency_0: poker_asset.ab
+    Info_25:
+      Name: poker_asset.ab
+      Dependencies: {}
+    Info_26:
+      Name: roombottom.ab
+      Dependencies:
+        Dependency_0: ddzroom_asset.ab
+    Info_27:
+      Name: time.ab
+      Dependencies:
+        Dependency_0: ddzroom_asset.ab

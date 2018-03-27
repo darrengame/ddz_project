@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 303573999
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 813f8214ad1bb1a7f6964ce0a1b86717
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36c33a819640bead83b84b1645a12e6d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/GameRoom/Textures/Poker/poker_42.png
+- Assets/Game/GameRoom/Textures/Poker/poker_7.png
+- Assets/Game/GameRoom/Textures/Poker/poker_color_1.png
+- Assets/Game/GameRoom/Textures/Poker/poker_a.png
+- Assets/Game/GameRoom/Textures/Poker/poker_4.png
+- Assets/Game/GameRoom/Textures/Poker/poker_1.png
+- Assets/Game/GameRoom/Textures/Poker/poker_3.png
+- Assets/Game/GameRoom/Textures/Poker/poker_2.png
+- Assets/Game/GameRoom/Textures/Poker/poker_color_3.png
+- Assets/Game/GameRoom/Textures/Poker/bg_backpoker.png
+- Assets/Game/GameRoom/Textures/Poker/poker_color_0.png
+- Assets/Game/GameRoom/Textures/Poker/poker_5.png
+- Assets/Game/GameRoom/Textures/Poker/poker_b.png
+- Assets/Game/GameRoom/Textures/Poker/poker_9.png
+- Assets/Game/GameRoom/Textures/Poker/poker_8.png
+- Assets/Game/GameRoom/Textures/Poker/poker_color_2.png
+- Assets/Game/GameRoom/Textures/Poker/bg_poker.png
+- Assets/Game/GameRoom/Textures/Poker/poker_c.png
+- Assets/Game/GameRoom/Textures/Poker/poker_6.png
+- Assets/Game/GameRoom/Textures/Poker/poker_41.png
+- Assets/Game/GameRoom/Textures/Poker/poker_d.png
+Dependencies: []

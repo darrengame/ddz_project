@@ -1,0 +1,116 @@
+.package {
+	type 0 : integer
+	session 1 : integer
+	ud 2 : string
+}
+
+.player_info{
+	seatid 0: integer
+	userid 1: string
+	avatar 2: string
+	ip 3: string
+	exp 4: integer
+	rmb 5: integer
+	name 6: string
+	sex 7: integer # 1:男，2:女 0:没有
+}
+
+onlogin 1 {
+	request {
+		ok 0 : boolean
+		err 1 : integer
+	}
+}
+
+onjoinroom 2 {
+	request {
+		seatid 0: integer
+		userid 1: string
+		avatar 2: string
+		ip 3: string
+		exp 4: integer
+		rmb 5: integer
+		name 6: string
+		sex 7: integer # 1:男，2:女 0:没有
+		player_info 8: *string
+	}
+}
+
+onroominfo 3 {
+	request {
+		seatid 0: integer
+		userid 1: string
+		table_state 2: integer # 0：等待，1：开始， 2：结束
+		player_info 3: *player_info
+		room_number 4: string
+		info 5 : *integer 	# 进入的房间信息 协定好顺序
+	}
+}
+
+onleftroom 4 {
+	request {
+		seatid 0: integer
+		userid 1: string
+		left_type 2: integer # 1:主动离开，2：被踢
+	}
+}
+
+onuserready 5 {
+	request {
+		seatid 0: integer
+		userid 1: string
+		ready 2: boolean
+	}
+}
+
+heartbeat 6 {}
+
+onrequestmaster 7 {
+	request {
+		next_seatid 0: integer
+		seatid 1: integer # 可选，有是抢地主，没有是叫地主
+		rate 2: integer # 可选 0:不叫， 1：1分，2：2分，3：3分
+		cards 3: string # 可选 首轮叫地主
+	}
+}
+
+ongamestart 8 {
+	request {
+		master_seatid 0: integer
+		excards 1: string
+	}
+}
+
+onplay 9 {
+	request {
+		cards 0: string
+		seatid 1: integer
+		next_seatid 2: integer
+		ok 3: boolean
+	}
+}
+
+ongameover 10 {
+	request {
+		.game_score {
+			name 1 : string
+			minscore 0 : integer
+			total_score 2 : integer
+			score 3 : integer
+			kind 4 : integer
+			mutiple 5 : integer
+			bomb_num 6 : integer
+			seatid 7 : integer
+		}
+		.cards {
+			seatid 0 : integer
+			cards 1 : string
+		}
+		farmerwin 0: boolean
+		userid 1: string
+		master_seatid 2: integer
+		seatid 3: integer
+		game_score 4: *game_score
+		user_cards 5: *cards
+	}
+}

@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 2661055815
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a7d935a70a72272fc1b80381450a2c9f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0d3092762a1e72b3ea376bed2e3703db
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/GameRoom/Builds/DdzRoom/Button_short_orange.prefab
+- Assets/Game/GameRoom/Builds/DdzRoom/DdzRoomPanel.prefab
+- Assets/Game/GameRoom/Builds/DdzRoom/Button_short_green.prefab
+- Assets/Game/GameRoom/Builds/DdzRoom/Text_status.prefab
+- Assets/Game/GameRoom/Builds/DdzRoom/MasterExCard.prefab
+- Assets/Game/GameRoom/Builds/DdzRoom/MasterPanel.prefab
+- Assets/Game/GameRoom/Builds/DdzRoom/OperatorPanel.prefab
+- Assets/Game/GameRoom/Builds/DdzRoom/Image_cardnum.prefab
+Dependencies:
+- /Users/xtgames/Documents/git/qp_uclient/Assets/StreamingAssets/res/ddzroom_asset.ab
+- /Users/xtgames/Documents/git/qp_uclient/Assets/StreamingAssets/res/poker_asset.ab
